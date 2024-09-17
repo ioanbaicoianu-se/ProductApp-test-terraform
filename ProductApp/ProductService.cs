@@ -7,7 +7,7 @@ namespace ProductApp
 {
     public class ProductService
     {
-        private static string db_connectionstring = "server=appserver6008089.database.windows.net;user=sqladmin;password=Azure@123;database=appdb";
+        private static string db_connectionstring = "server=terraformdaffwsqlserver123134.database.windows.net;user=sqladmin;password=Azure@123;database=terraformdaffwsqldatabase310831";
 
         private SqlConnection GetConnection()
         {
